@@ -1,8 +1,9 @@
 {
-    "users" : [
-        {"name" : "Vanderlei" ,
-            "Email" : "vanderlei_09@outlook.com",
-            "id" : 1
-        }
-    ]
+  "users": [
+    {
+      "name": "Vanderlei",
+      "email": "vanderlei_09@outlook.com",
+      "id": 1
+    }
+  ]
 }
