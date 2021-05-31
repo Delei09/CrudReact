@@ -1,0 +1,22 @@
+.App{
+  display: grid;
+  grid-template-columns: 150px 1fr;
+  grid-template-rows: 200px 1fr 80px;
+  grid-template-areas: 
+    "nav header"
+    "nav main"
+    "nav footer"
+  ;
+}
+footer.footer{
+  grid-area: footer;
+}
+main.main{
+  grid-area: main;
+}
+nav.nav{
+  grid-area: nav;
+}
+header.header{
+  grid-area: header;
+}
